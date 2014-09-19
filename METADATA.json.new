@@ -1,0 +1,41 @@
+{
+  "name": "Autour One",
+  "designer": "Eben Sorkin",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Display",
+  "size": 40806,
+  "fonts": [
+    {
+      "name": "Autour One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "AutourOne-Regular-TTF.ttf",
+      "postScriptName": "AutourOne-Regular",
+      "fullName": "AutourOne",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Autour'"
+    },
+    {
+      "name": "Autour One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "AutourOne-Regular.ttf",
+      "postScriptName": "AutourOne-Regular",
+      "fullName": "Autour One",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Autour'"
+    },
+    {
+      "name": "Autour One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "AutourOne-Regular-OTF.ttf",
+      "postScriptName": "AutourOne-Regular",
+      "fullName": "AutourOne",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Autour\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-05-15"
+}
